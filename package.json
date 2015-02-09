@@ -1,0 +1,27 @@
+{
+  "name": "github_push_viewer",
+  "version": "1.0.0",
+  "description": "Github followings' pushes viewer",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "gh:xnuk/github_push_viewer"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "Xnuk",
+  "license": "MIT",
+  "dependencies":{
+    "express": "4.x",
+    "morgan": "1.5.x",
+    "jade": "1.9.x",
+    "request": "2.x",
+    "timeago": "0.2.x",
+    "stylus": ">=0.49.3",
+    "uglify-js": "2.x",
+    "clean-css": "3.x",
+    "nib": "1.x"
+  }
+}
