@@ -22,6 +22,7 @@
     "stylus": ">=0.49.3",
     "uglify-js": "2.x",
     "clean-css": "3.x",
-    "nib": "1.x"
+    "nib": "1.x",
+    "coffee-script": "1.x"
   }
 }
